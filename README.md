@@ -114,10 +114,17 @@ CREMA-D dataset
 **References**
 
 HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units
+
 https://arxiv.org/abs/2106.07447
+
 Efficient Emotion Recognition from Speech Using Deep Learning on Spectrograms
+
 https://ieeexplore.ieee.org/document/7952153
+
 Real-time speech emotion recognition using deep learning and data augmentation
+
 https://link.springer.com/article/10.1007/s10462-024-11065-x
+
 Real-time speech emotion recognition using deep learning and data augmentation
+
 https://ieeexplore.ieee.org/document/10522204
