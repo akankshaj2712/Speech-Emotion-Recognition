@@ -95,6 +95,8 @@ MFCCs, Chroma, and Mel features were highly effective for capturing emotional nu
 CNN layers efficiently extracted spatial audio patterns, while BiLSTM captured temporal emotional trends.
 
 Model overfitting was addressed through data augmentation and padding strategies.
+![image](https://github.com/user-attachments/assets/7ea7f130-d3b3-45e0-ba6c-6bfe639ca1fd)
+
 **🚀 Future Improvements**
 
 Implement transfer learning (e.g., Wav2Vec)
