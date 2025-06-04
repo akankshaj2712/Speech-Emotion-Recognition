@@ -96,6 +96,8 @@ CNN layers efficiently extracted spatial audio patterns, while BiLSTM captured t
 
 Model overfitting was addressed through data augmentation and padding strategies.
 ![image](https://github.com/user-attachments/assets/7ea7f130-d3b3-45e0-ba6c-6bfe639ca1fd)
+![image](https://github.com/user-attachments/assets/3bbe5416-bf2e-48c1-80d2-489a691bc896)
+
 
 **🚀 Future Improvements**
 
